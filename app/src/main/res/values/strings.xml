@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Snap Workout</string>
+
+    <!--TODO(Step 3 - Defining the image content Description in string.xml)-->
+    <!--START-->
+    <string name="image">image</string>
+    <!--END-->
+</resources>
