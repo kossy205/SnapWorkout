@@ -1,6 +1,6 @@
 # SnapWorkout
 
-Snap Workout is an open source fitness Android app designed for people who want to stay in shape but have limited time to spend on going to the gym. The app guides users through a 7-minute exercise session and records each completed session locally on their device.
+Snap Workout is a fitness Android app designed for people who want to stay in shape but have limited time to spend on going to the gym. The app guides users through a 7-minute exercise session and records each completed session locally on their device.
 
 
 ## It was built using the following:
